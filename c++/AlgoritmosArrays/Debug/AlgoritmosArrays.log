@@ -1,8 +1,4 @@
-﻿  FillArray.cpp
-  Main.cpp
+﻿  Main.cpp
 C:\Users\ruial\Documents\GitHub\Algoritmia\c++\AlgoritmosArrays\Main.cpp(3,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
 C:\Users\ruial\Documents\GitHub\Algoritmia\c++\AlgoritmosArrays\Main.cpp(4,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
-  PrintArray.cpp
-  SortArray.cpp
-  Gerando Código...
   AlgoritmosArrays.vcxproj -> C:\Users\ruial\Documents\GitHub\Algoritmia\c++\AlgoritmosArrays\Debug\AlgoritmosArrays.exe
